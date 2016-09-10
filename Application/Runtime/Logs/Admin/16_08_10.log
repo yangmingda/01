@@ -1,0 +1,88 @@
+[ 2016-08-10T09:25:47+08:00 ] 127.0.0.1 /index.php/Admin/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+
+[ 2016-08-10T09:26:08+08:00 ] 127.0.0.1 /index.php/Admin/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2016-08-10T09:40:17+08:00 ] 127.0.0.1 /index.php/Admin/Public/login1
+ERR: 非法操作:login1
+
+[ 2016-08-10T09:40:36+08:00 ] 127.0.0.1 /index.php/Admin/Public/login1
+ERR: 非法操作:login1
+
+[ 2016-08-10T09:41:12+08:00 ] 127.0.0.1 /index.php/Admin/Public/login1
+ERR: 非法操作:login1
+
+[ 2016-08-10T16:51:59+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 无法加载控制器:Dept
+
+[ 2016-08-10T16:52:47+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 无法加载控制器:Dept
+
+[ 2016-08-10T16:52:49+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 无法加载控制器:Dept
+
+[ 2016-08-10T16:57:41+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+ERR: 模板不存在:./Application/Admin/View/Dept/add.html
+
+[ 2016-08-10T16:58:54+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T16:58:55+08:00 ] 127.0.0.1 /index.php/Admin/Dept/css/info-reg.css
+ERR: 非法操作:css
+
+[ 2016-08-10T16:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T16:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/common.js
+ERR: 非法操作:js
+
+[ 2016-08-10T16:58:57+08:00 ] 127.0.0.1 /index.php/Admin/Dept/js/WdatePicker.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:10:35+08:00 ] 127.0.0.1 /index.php/Admin/Dept/addOk.html
+ERR: 非法操作:addOk
+
+[ 2016-08-10T17:25:45+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:23:50+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:23:52+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:23:52+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-10T20:30:23+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+ERR: 非法操作:showList
+

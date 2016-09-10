@@ -1,0 +1,26 @@
+[ 2016-08-18T19:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+ERR: 1054:Unknown column 't2.from_id' in 'where clause'
+ [ SQL语句 ] : SELECT t1.*,t2.truename as truename FROM tp_email as t1,tp_user as t2 WHERE ( t1.to_id = t2.id and t2.from_id =1 ) 
+
+[ 2016-08-18T19:19:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/1
+ERR: 非法操作:download
+
+[ 2016-08-18T19:28:28+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/1
+ERR: 非法操作:del
+
+[ 2016-08-18T19:39:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/3
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `tp_email` WHERE ( id = $id and isread = 0 and from_id=1 )
+
+[ 2016-08-18T20:13:16+08:00 ] 127.0.0.1 /index.php/Admin/lalala/index
+ERR: 模板不存在:./Application/Admin/View/Empty/error.html
+
+[ 2016-08-18T20:15:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/123
+ERR: 非法操作:123
+
+[ 2016-08-18T20:25:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/123
+ERR: 非法操作:123
+
+[ 2016-08-18T20:28:22+08:00 ] 127.0.0.1 /index.php/Admin/Public/123
+ERR: 非法操作:123
+

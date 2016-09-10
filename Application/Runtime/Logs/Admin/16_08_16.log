@@ -1,0 +1,63 @@
+[ 2016-08-16T18:20:32+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2016-08-16T18:20:33+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2016-08-16T18:20:34+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2016-08-16T18:20:37+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/add.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2016-08-16T18:20:38+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 无法加载控制器:Knowledge
+
+[ 2016-08-16T18:23:36+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:37+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:37+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:39+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:39+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:39+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:39+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:39+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:40+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T18:23:40+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-16T22:14:43+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 非法操作:edit
+
+[ 2016-08-16T22:18:19+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2016-08-16T23:49:24+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2016-08-16T23:49:44+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2016-08-16T23:49:48+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2016-08-16T23:50:56+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/10
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
